@@ -1,18 +1,44 @@
-# 🚀 Experiência 05: Do Clone ao MVP+ (Produto Mínimo Viável)
+# 🌀 AuraSync Design Intelligence v2.0
 
-## 📝 Descrição do Projeto
-Nesta experiência, avançamos da fase de codificação técnica (clone) para a fase de idealização e negócios. Utilizando o **Gerador de Design Neumórfico** (inspirado no Neumorphism.io) como base, o objetivo foi projetar um **MVP+ (Minimum Viable Product)**. Adicionamos uma camada de inovação com Inteligência Artificial para resolver um problema real do mercado de Front-end, transformando uma ferramenta simples num produto com potencial de escalabilidade.
+**Engine de alta fidelidade para geração de Design Tokens e Glassmorfismo assistido por IA.**
 
-## 💡 A Ideia: NeumoAI
-O produto idealizado foi o **NeumoAI**, uma ferramenta de prototipagem para Web Designers e Desenvolvedores. O diferencial (MVP+) é a integração de IA que permite gerar componentes visuais através de prompts de texto (ex: "cartão de login escuro"), automatizando o HTML/CSS e garantindo diretrizes de acessibilidade e contraste em tempo real.
+## 💎 Visão Geral
+O AuraSync é uma plataforma avançada de engenharia de design que funde estética neubrutalista com inteligência artificial. Projetado para desenvolvedores e designers modernos, o ecossistema permite a criação, compartilhamento e exportação de interfaces glassmórficas com precisão técnica absoluta.
 
-## 🚀 Tecnologias e Conceitos Utilizados
-* **Conceitos:** Product Management, Criação de MVP, Pitch Deck, Modelagem de Negócio, Prompt Estruturado (Golden Prompt).
-* **Ferramenta de Ideação:** Modelos de Linguagem (ChatGPT / Gemini).
+## 🚀 Funcionalidades Chave
 
-## 📊 Aprendizagens do Processo
-* **Visão Estratégica:** A Engenharia de Prompt permite validar ideias de negócio em minutos. Antes de escrever a primeira linha de código no backend, é possível ter a clareza do público-alvo e de como o software vai gerar receita (modelo Freemium, exportação para Figma, etc.).
-* **O Desenvolvedor do Futuro:** O exercício deixou claro que o valor de um desenvolvedor moderno não está apenas em saber programar, mas em compreender a necessidade do utilizador e arquitetar produtos de forma ágil utilizando a IA como assistente de negócio.
+### 🧠 Inteli-Design (Powered by Gemini)
+* **Insight AI:** Análise preditiva de tokens de design com recomendações técnicas.
+* **Harmonização de Cores:** Sugestão algorítmica de paletas acessíveis e modernas via IA.
 
-## 🔧 Como Visualizar
-* O documento completo contendo o **Golden Prompt**, o **Pitch Deck** gerado pela IA e a **Reflexão Crítica** detalhada encontra-se no ficheiro PDF em anexo nesta pasta.
+### 🏢 Ecossistema Colaborativo
+* **Biblioteca Pessoal:** Sincronização em nuvem de blueprints privados via Firebase.
+* **Community Showcase:** Galeria global para compartilhamento e remixagem de presets.
+* **Auth Social:** Integração nativa com Google Login para persistência de dados.
+
+### ⚡ Engenharia de Exportação
+Multi-Framework: Geração instantânea de código para:
+* **CSS Puro** (Legacy support)
+* **Tailwind CSS** (Utility-first syntax)
+* **SwiftUI** (Apple Native components)
+
+### 🛠️ Admin Terminal
+* **Controle de Sistema:** Gestão de critérios de avaliação e permissões administrativas em tempo real.
+
+---
+
+## 🏗️ Arquitetura do Projeto
+A organização do código segue os mais altos padrões de modularidade e escalabilidade:
+
+```text
+aurasync/
+├── src/
+│   ├── components/       # Interface modular e componentes Neubrutalistas
+│   ├── lib/              # Configurações de serviços (Firebase, Gemini)
+│   ├── types.ts          # Definições estritas de TypeScript
+│   ├── App.tsx           # Orquestrador principal da UI e lógica de estado
+│   └── index.css         # Design system via Tailwind CSS
+├── public/               # Assets estáticos
+├── firebase-blueprint.json # Definição da estrutura NoSQL (Firestore)
+├── firestore.rules       # Regras de segurança e autorização
+└── package.json          # Dependências do motor
