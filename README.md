@@ -1,20 +1,22 @@
 # Adriano Salviano Marçal
-> Estudante de Ciência da Computação
+> Estudante de Ciência da Computação & Técnico em Redes
 
 ---
 
 ### 📭 Contato & Redes Sociais
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](COLE_O_LINK_DO_SEU_LINKEDIN_AQUI)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adriano-marçal-6741ab331)
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adrianomarcall@icloud.com)
+[![Currículo](https://img.shields.io/badge/Currículo-000000?style=for-the-badge&logo=read-the-docs&logoColor=white)](./CV_Adriano_Marcal.pdf)
 
 ---
 
 ### 👨‍💻 Sobre
-Atualmente cursando o 1º período de Ciência da Computação na UNICID. Sou apaixonado por resolver problemas através da tecnologia e possuo foco em Desenvolvimento Backend. 
+Atualmente cursando o 1º período de Ciência da Computação na UNICID e Técnico em Redes de Computadores no SENAI. Possuo vivência internacional acadêmica na Irlanda e domínio avançado da língua inglesa (C2). Sou apaixonado por resolver problemas através da tecnologia, com foco em Desenvolvimento Backend e infraestrutura.
 
-* **Habilidades Técnicas:** Python, Linux, Banco de Dados SQL, Protocolos de Redes.
-* **Habilidades Socioemocionais:** Boa comunicação, colaboração e pensamento analítico.
-* **Experiência/Projetos Relevantes:** Desenvolvimento de aplicações estruturadas em Engenharia de Prompt, Inteligência Artificial e construção de MVPs (Minimum Viable Products).
+* **Habilidades Técnicas:** Python, Linux, Banco de Dados SQL e Protocolos de Redes.
+* **Habilidades Socioemocionais:** Boa comunicação, persuasão, colaboração e pensamento analítico.
+* **Idiomas:** Inglês (C2 - Avançado) e Francês (A2 - Básico).
+* **Experiência/Projetos Relevantes:** Desenvolvimento de aplicações estruturadas em Engenharia de Prompt, Inteligência Artificial, resolução de desafios de TI e construção de MVPs.
 
 ---
 
@@ -49,4 +51,5 @@ Atualmente cursando o 1º período de Ciência da Computação na UNICID. Sou ap
 Abaixo, a organização deste repositório para facilitar a navegação:
 
 - `root/`: Arquivo de apresentação principal.
-- `/experiencia-X/`: Pastas contendo o material desenvolvido, documentação e o README específico de cada projeto acadêmico.
+- `CV_Adriano_Marcal.pdf`: Meu currículo atualizado.
+- `/experiencia-X/`: Pastas contendo o material desenvolvido, documentação e o README específico de cada projeto acadêmico. o README específico de cada projeto acadêmico.
