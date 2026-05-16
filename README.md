@@ -11,7 +11,7 @@
 ---
 
 ### 👨‍💻 Sobre
-Atualmente cursando o 1º período de Ciência da Computação na UNICID e Técnico em Redes de Computadores no SENAI. Possuo vivência internacional acadêmica na Irlanda e domínio avançado da língua inglesa (C2). Sou apaixonado por resolver problemas através da tecnologia, com foco em Desenvolvimento Backend e infraestrutura.
+Atualmente cursando o 1º período de Ciência da Computação na UNICID e Técnico em Redes de Computadores no SENAI. Possuo vivência internacional acaddemica e domínio avançado da língua inglesa. Sou apaixonado por resolver problemas através da tecnologia, com foco em Desenvolvimento Backend e infraestrutura.
 
 * **Habilidades Técnicas:** Python, Linux, Banco de Dados SQL e Protocolos de Redes.
 * **Habilidades Socioemocionais:** Boa comunicação, persuasão, colaboração e pensamento analítico.
