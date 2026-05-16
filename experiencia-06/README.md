@@ -16,7 +16,7 @@ A aplicação funciona baseada na seguinte estrutura lógica de eventos:
 4. **Retorno e Exibição:** O aplicativo aguarda a resposta dos servidores da IA, extrai apenas o texto útil gerado e o projeta em um elemento de Texto (`Text`) na interface do usuário.
 
 ## 🔗 Link da Aplicação
-* Acesse o Web App funcional aqui: **[COLE O LINK DO SEU APP NO BUBBLE AQUI]**
+* Acesse o Web App funcional aqui: https://bubble.io/page?id=adrianosalvianoom&source=onboarding&tab=Design&name=reset_pw&type=page
 
 ## 🔧 Como Visualizar
 * As capturas de tela comprovando o desenvolvimento da aplicação — incluindo a construção da **Interface**, a configuração técnica do **API Connector** e a estrutura do **Workflow** — encontram-se anexadas nos arquivos desta pasta.
